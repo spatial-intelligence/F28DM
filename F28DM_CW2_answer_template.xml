@@ -1,0 +1,198 @@
+<data>
+
+<!--UPDATE WITH YOUR USERNAME -->
+    <USERNAME>abc123</USERNAME>
+
+<!--START OF EXAMPLE   -->
+    <question id="0">
+        <answer>1094</answer>
+    <sql>
+      <![CDATA[   
+            SELECT COUNT(*) FROM trajectory.tracking;
+       ]]>
+    </sql>
+    </question>
+<!--END OF EXAMPLE -->
+
+<!--START OF YOUR ANSWERS and SQL STATEMENTS-->
+
+    <question id="1">
+        <answer></answer>
+        <sql>
+            <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="2">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="3">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="4">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="5">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="6">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="7">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="8">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="9">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="10">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="11">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="12">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="13">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="14">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="15">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="16">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="17">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="18">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="19">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="20">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="21">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="22">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+
+    <question id="23">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="24">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+    <question id="25">
+        <answer></answer>
+        <sql>
+          <![CDATA[   your SQL ;   ]]>
+        </sql>
+    </question>
+
+
+<!--END OF ANSWERS -->
+
+</data>
